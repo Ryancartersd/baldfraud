@@ -2,7 +2,7 @@ const contractAddress = "0x6b1050eC5B48746Ea2Ba29c99a5fD723C11b44FB"; // Replace
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Meet The Bald Frauds!";
-const welcome_h2 = "Welcome to the World of the Bald!";
+const welcome_h2 = "Please connect to MetaMask to Get Started!";
 const welcome_p = 'Bald Frauds are the 1st release in a series of hand drawn fully decentralized NFT projects. Our main goal is to bring a fully functional meta-verse where the Bald Frauds represent a getaway from the day to day pressures of life.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
